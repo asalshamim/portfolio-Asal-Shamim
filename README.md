@@ -2,6 +2,6 @@
 
 # About Me
 
-# An aspiring Python developer, interested in Machine Learning.
+# 📚 An aspiring Python developer, interested in Machine Learning.
 
-# Connect with me 
+# 🔍 Connect with me 
