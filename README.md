@@ -6,4 +6,3 @@
 
 #  Connect me 📞
 
-https://www.linkedin.com/in/asal-shamim-6a19891b6
